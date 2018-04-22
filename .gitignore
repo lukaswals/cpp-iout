@@ -240,3 +240,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/3rdparty/include
+/IOUT_commands.txt

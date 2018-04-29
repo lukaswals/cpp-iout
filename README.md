@@ -15,7 +15,8 @@ If you think their work is useful in your research, please consider citing:
 	MONTH = aug,
 	ADDRESS = {Lecce, Italy},
 	URL = {http://elvera.nue.tu-berlin.de/files/1517Bochinski2017.pdf},
-	
+```
+
 ## Other sections
 
 Under construction
